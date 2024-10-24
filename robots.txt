@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://dolapole.github.io/sitemap/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/MVF/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/CWk/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/kql/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/XtJ/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/pQP/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/LIw/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/Zsx/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/MxL/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/shF/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/DvE/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/QtZ/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/fqG/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/ZKg/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/eGm/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/tmD/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/sMj/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/cxE/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/mCj/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/EIu/sitemap_index.dolapole
+Sitemap: https://dolapole.github.io/JtB/sitemap_index.dolapole
